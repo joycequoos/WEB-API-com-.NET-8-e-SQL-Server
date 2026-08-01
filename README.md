@@ -1,6 +1,6 @@
 # WEB API com .NET 8 e SQL Server
 
-[← Voltar](https://github.com/JosiTubaroski/Novo_Sircoi/blob/main/README.md)
+[← Voltar](https://github.com/joycequoos/Development)
 
 Repositório-índice com o passo a passo da construção de uma WEB API em .NET 8, com persistência de dados em SQL Server, cobrindo desde a criação do projeto até a implementação completa dos endpoints de autores e livros.
 
