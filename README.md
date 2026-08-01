@@ -1,74 +1,36 @@
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Novo_Sircoi/blob/main/README.md">Home</a></p>
-</div> 
+# WEB API com .NET 8 e SQL Server
 
-# WEB API com .NET 8 e SQL-Server
+[← Voltar](https://github.com/JosiTubaroski/Novo_Sircoi/blob/main/README.md)
 
-#### ✨ Projeto
+Repositório-índice com o passo a passo da construção de uma WEB API em .NET 8, com persistência de dados em SQL Server, cobrindo desde a criação do projeto até a implementação completa dos endpoints de autores e livros.
 
-Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
+**Aula de referência:** [assista no YouTube](https://www.youtube.com/watch?v=bnAuqSgmTyc)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Web_API_CriarProjeto/blob/main/README.md">01. Criando Projeto .NET8 no Visual Studio</a></p>
-</div> 
+## Projeto
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, configurado o contexto do banco de dados (AppDbContext), Models, string de conexão com o SQL Server, migrações e aplicadas na base de dados, estruturando a persistência de dados da aplicação. </a></p>
-</div> 
+1. [Criando Projeto .NET8 no Visual Studio](https://github.com/JosiTubaroski/Web_API_CriarProjeto/blob/main/README.md)
+2. [Configurando o Contexto do Banco de Dados](https://github.com/JosiTubaroski/App_DBContext) — configuração do `AppDbContext`, Models, string de conexão com o SQL Server, migrações aplicadas na base de dados e estruturação da persistência de dados da aplicação.
 
-#### ✨ EndPoints Autores
+## Endpoints de Autores
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Controllers_Services/blob/main/README.md">03. Continuando o Projeto .NET8, Services, Controllers, End-Point: LISTAR AUTORES </a></p>
-</div>
+3. [Services, Controllers e Endpoint: Listar Autores](https://github.com/JosiTubaroski/Controllers_Services/blob/main/README.md)
+4. [Interface, Services, Controllers e Endpoint: Buscar Autor por ID](https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/README.md)
+5. [Services, Controllers e Endpoint: Buscar Autor por ID do Livro](https://github.com/JosiTubaroski/Listar_Autor_Por_IDLivro/blob/main/README.md)
+6. [Debugando o Endpoint: Buscar Autor por ID do Livro](https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro)
+7. [DTO, Interface, Services, Controllers e Endpoint: Criar Autor](https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/README.md)
+8. [Interface, Services, Controllers e Endpoints: Editar Autor / Excluir Autor](https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/README.md">04. Interface, Services, Controllers, End-Point: BUSCAR AUTOR POR ID </a></p>
-</div>
+## Curiosidades
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_IDLivro/blob/main/README.md">05. Services, Controllers, End-Point: BUSCAR AUTOR POR ID Livro</a></p>
-</div>
+1. [Qual a história do .NET8?](https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md)
+2. [Qual a história do MVC?](https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md)
+3. [Qual a história do Swagger?](https://github.com/JosiTubaroski/Swagger)
+4. [O que são Endpoints?](https://github.com/JosiTubaroski/End-points)
+5. [O que é e para que serve a documentação de API?](https://github.com/JosiTubaroski/Documento_API/blob/main/README.md)
+6. [Repository Patterns](https://github.com/JosiTubaroski/Repository_Patterns/blob/main/README.md)
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro">06. Debugando o End-Point: BUSCAR AUTOR POR ID Livro</a></p>
-</div>
+## Projeto Final
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/README.md">07. Dto, Interface, Services, Controllers, End-Point: CRIAR AUTOR</a></p>
-</div>
+O código completo, com todos os endpoints implementados, está disponível em:
 
-<div> 
-<p><a href="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md">08. Interface, Services, Controllers, End-Point: EDITAR AUTOR / EXCLUIR AUTOR</a></p>
-</div>
-
-
-#### ✨ Curiosidades
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">01. Qual a história do .NET8? </a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">02. Qual a história do MVC? </a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Swagger">03. Qual a história do swagger? </a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/End-points">04. O que são end-points? </a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Documento_API/blob/main/README.md">05. O que é e para que serve a documentação de API? </a></p>
-</div> 
-
-<div> 
-<p><a href="https://github.com/JosiTubaroski/Repository_Patterns/blob/main/README.md">06. Repository Patterns </a></p>
-</div> 
-
-Link do Projeto: https://github.com/JosiTubaroski/Net8_WebAPI_Autores_Livros
-
-
+[Net8_WebAPI_Autores_Livros](https://github.com/JosiTubaroski/Net8_WebAPI_Autores_Livros)
