@@ -23,7 +23,7 @@ Repositório-índice com o passo a passo da construção de uma WEB API em .NET 
 ## Curiosidades
 
 1. [Qual a história do .NET8?](https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md)
-2. [Qual a história do MVC?](https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md)
+2. [Qual a história do MVC?](https://github.com/joycequoos/historia_MVC)
 3. [Qual a história do Swagger?](https://github.com/JosiTubaroski/Swagger)
 4. [O que são Endpoints?](https://github.com/JosiTubaroski/End-points)
 5. [O que é e para que serve a documentação de API?](https://github.com/JosiTubaroski/Documento_API/blob/main/README.md)
