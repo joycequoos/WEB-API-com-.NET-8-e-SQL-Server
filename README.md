@@ -33,4 +33,4 @@ Repositório-índice com o passo a passo da construção de uma WEB API em .NET 
 
 O código completo, com todos os endpoints implementados, está disponível em:
 
-[Net8_WebAPI_Autores_Livros](https://github.com/joycequoos/Net8_WebAPI_Autores_Livros)
+[Net8_WebAPI_Autores_Livros](https://github.com/joycequoos/WebAPI_NET_Employees)
